@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/b00094250/github-story-201
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Chapter01:(https://b00094250.github.io/github-story-2019/chapter01.html)
+[Chapter01](https://b00094250.github.io/github-story-2019/chapter01.html)
 
 ### Markdown
 
