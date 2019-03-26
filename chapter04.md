@@ -9,9 +9,3 @@
 
 
 
-This a diary talking about various events which happened in my life.
-
-August 22 2010
-
-Dear Diary,
-            Today was I'm going on holidays to Spain. It is my first time leaving the country.
