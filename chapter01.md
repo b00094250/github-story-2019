@@ -1,7 +1,7 @@
 ## Chapter 01
 
 [Chapter01](https://b00094250.github.io/github-story-2019/chapter01.html)
-[Chapter02](https://b00094250.github.io/github-story-2019/chapter03.html)
+[Chapter02](https://b00094250.github.io/github-story-2019/chapter02.html)
 [Chapter03](https://b00094250.github.io/github-story-2019/chapter03.html)
 [Chapter04](https://b00094250.github.io/github-story-2019/chapter04.html)
 
@@ -22,5 +22,5 @@ Dear Diary,
             my alarm didn't wake me up and in the end. My Mother dropped me at the airport and after I met up with my 
             friends. It was annoying waiting in the longest queue I have ever seen. It was Airport Security. Everyone
              has to go through Airport Security. They scan your bags through advanced technology to check any hazards 
-             that may affect the aircraft. There was also a door like an object I had to do walkthrough in case I was 
-             hiding something. After we arrived at the gate ready to board.
+             that may affect the aircraft. There was also a door like an object I had to do walk through in case I was 
+             hiding something. After we arrived at the gate ready to board. 
