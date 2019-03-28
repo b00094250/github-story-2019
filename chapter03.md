@@ -9,7 +9,7 @@
 
 
 
-This a diary talking about various events which happened in my life. 
+is a diary talking about various events which happened in my life. 
 
 October 11, 2010
  
@@ -19,6 +19,6 @@ The website had many dogs which were all nice but then I stumble upon this beaut
 puppy. There was something about this puppy that made me want to be part of his life.
 I made sure I had the equipment needed for the dog like the bowl, food and toys. The next day I hopped into my car and started my journey 
 to the adoption centre. It took two hours to get there. It was very stressful going through traffic. But I was expecting this especially when it was rush hours. 
-I arrived at the place to see the manager outside waiting for me. Her name was Aoife. She introduced me to all the dogs in the kernel. After a while I saw the little puppy and picked it. I named Chopper it. Chopper would now become a major part in my life.
-            We arrived home. Prepared his cage for bed.  
+I arrived at the place to see the manager outside waiting for me. Her name was Aoife. She introduced me to all the dogs in the kernel. After that I couldn't find the dog. I asked the 
+for the dog but he was already taken. It was a shame. I went back to start looking  for a new place.
             
