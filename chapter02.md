@@ -7,7 +7,6 @@
 
 
 
-
 August 23, 2010 
 
 Dear Diary, 
