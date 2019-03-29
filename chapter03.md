@@ -8,7 +8,6 @@
 
 
 
-
 is a diary talking about various events which happened in my life. 
 
 October 11, 2010
@@ -21,4 +20,4 @@ I made sure I had the equipment needed for the dog like the bowl, food and toys.
 to the adoption centre. It took two hours to get there. It was very stressful going through traffic. But I was expecting this especially when it was rush hours. 
 I arrived at the place to see the manager outside waiting for me. Her name was Aoife. She introduced me to all the dogs in the kernel. After that I couldn't find the dog. I asked the 
 for the dog but he was already taken. It was a shame. I went back to start looking  for a new place.
-            
+  
